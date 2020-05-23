@@ -1,6 +1,6 @@
 # no_to_do_app
 
-# DataBase is a structured way of organizing data on top of that database also allows us to retrieve that data quicker and more efficient.
+## DataBase is a structured way of organizing data on top of that database also allows us to retrieve that data quicker and more efficient.
 
 # Here we are using SQflite for database.
 
