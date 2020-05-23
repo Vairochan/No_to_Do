@@ -1,8 +1,8 @@
 # no_to_do_app
 
-## DataBase is a structured way of organizing data on top of that database also allows us to retrieve that data quicker and more efficient.
+### DataBase is a structured way of organizing data on top of that database also allows us to retrieve that data quicker and more efficient.
 
-# Here we are using SQflite for database.
+## Here we are using SQflite for database.
 
 SQLite plugin for Flutter. Supports iOS, Android and MacOS.
 Support transactions and batches
@@ -10,7 +10,7 @@ Automatic version managment during open
 Helpers for insert/query/update/delete queries
 Database operation executed in a background thread on iOS and Android
 
-# A new Flutter app which usses Sqflite for the operation CRUD, Create, Read Update and Delete.
+## A new Flutter app which usses Sqflite for the operation CRUD, Create, Read Update and Delete.
 So when you open up the application here you're going to have a floating button at the bottom there, where you can click and is going to open a dialog box. And once you click that then you're going to have something that pops up in a dialog with which then will allow you to enter the not to do or no to item. In this case you can say not to somke or drink.You can delete each item by clicking or tapping on the red minors icon to the right. And another thing that's depicted in this picture here this screenshot is the fact that you can actually UPDATE the item or the not do list item by long pressing each row for each list item.
 
 
